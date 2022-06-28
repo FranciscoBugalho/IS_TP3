@@ -1,0 +1,6 @@
+data\Manager.class
+data\Person.class
+data\Client.class
+data\schemas.class
+data\Currency.class
+book\MEIBankingKafkaStream.class

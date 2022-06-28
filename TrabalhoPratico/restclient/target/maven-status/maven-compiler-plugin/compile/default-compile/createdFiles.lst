@@ -1,0 +1,10 @@
+data\Manager.class
+data\Person.class
+book\App.class
+data\Currency.class
+Utils\ASCIIArtGenerator.class
+Utils\ASCIIArtGenerator$ASCIIArtFont.class
+data\Client.class
+Utils\Utils.class
+book\Client.class
+book\ManageData.class

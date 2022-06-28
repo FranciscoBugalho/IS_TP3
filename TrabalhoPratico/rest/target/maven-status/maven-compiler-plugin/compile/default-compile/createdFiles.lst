@@ -1,0 +1,11 @@
+data\Manager.class
+data\Person.class
+database\Database.class
+data\Currency.class
+data\Client.class
+database\dbUtils\SelectConstants.class
+book\MEIBanking.class
+database\dbUtils\InsertConstants.class
+book\ApplicationConfig.class
+book\RestConstants.class
+database\dbUtils\DbConnectionConstants.class
